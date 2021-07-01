@@ -21,7 +21,7 @@ function App() {
     walletconnect: {
       package: WalletConnectProvider, // required
       options: {
-        infuraId: "458466a9f95e42a8a35fe18a94b2a475" // required
+        infuraId: "" // required
       }
     }
   };
